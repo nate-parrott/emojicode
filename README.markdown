@@ -1,4 +1,4 @@
-# Emojicode ("🔮✊👋👎👍💨👋👂👀")
+![Emojicode](https://raw.githubusercontent.com/nate-parrott/emojicode/master/Emojicode.png)
 
 **Emojicode** takes _binary data_ and transforms it into a _sequence of emoji_ (and back!).
 
