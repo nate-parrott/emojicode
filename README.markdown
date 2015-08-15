@@ -4,7 +4,7 @@
 
 It's like [Base64](https://en.wikipedia.org/wiki/Base64) but using emoji instead of letters and numbers.
 
-This repository contains **`Swift code`** for the algorithm, but it should be easy to translate to other languages.
+This repository contains [`Swift code`](https://github.com/nate-parrott/emojicode/blob/master/BaseEmoji/NSData%2BEmojicode.swift) for the algorithm, but it should be easy to translate to other languages.
 
 ## Why?
 
